@@ -1,3 +1,5 @@
 numpy
 streamlit==1.31.0
+
+scikit-learn
 sklearn
