@@ -1,0 +1,1 @@
+https://diabeticscheck.streamlit.app/
